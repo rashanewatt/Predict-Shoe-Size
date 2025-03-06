@@ -72,8 +72,8 @@ if predict_button:
     )
 
 
-st.write('Thank you for Trying out our App')
-st.markdown("![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)")
+st.write('Thank you for using our app')
+st.markdown("![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ0NG1rN2FkdDVlNmxoNTl2bGc1M254dzhwenlrdWgwZzh4bmIzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wXKi8j65mRb1BSNFfH/giphy.gif)")
 
 
 #connect model
